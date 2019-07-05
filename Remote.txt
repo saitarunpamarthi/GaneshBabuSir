@@ -1,2 +1,3 @@
 Remote file created from github
 Line 2 added from local
+Line 2 added from remote
